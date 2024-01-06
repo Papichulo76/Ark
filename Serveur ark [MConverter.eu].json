@@ -27,7 +27,7 @@
           "layout": 2,
           "buttontext": "Réglement",
           "title1": "Réglement",
-          "1":
+          "text1": [
             "On est poli et on se respecte ! (La base)",
             "Toute sorte de triche est interdite.",
             "On fait son recensement une fois installé dans la catégorie dédiée.",
@@ -39,6 +39,7 @@
             "On ne ramasse pas les œufs fécondés level donation même si le joueur est déconnecté on signale.",
             "On doit créer une tribu même si on est tout seul.", 
             "On ne tue pas les joueurs déconnectés." 
+          ]
           "imageurl": "https://i.imgur.com/a48VCix.png"
         } 
       }
