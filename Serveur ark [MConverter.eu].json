@@ -4,7 +4,7 @@
         "OpenButton": 0,
         "HideIcon": false,
         "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "IconURL": "https://i.imgur.com/6YdgcIh.png",
         "DisableIconText": false,
         "IconPosition": 0,
         "IconTextColor": 0,
@@ -16,27 +16,36 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Bienvenue</>",
           "title1": "Bienvenue sur le serveur de La Praterie !",
           "text1": "",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "imageurl": "https://i.imgur.com/6YdgcIh.png"
         }
       },
       {
         "tab2": {
           "layout": 2,
-          "buttontext": "2 Box layout",
+          "buttontext": "Réglement",
           "title1": "Réglement",
-          "text1": "On est poli et on se respecte ! (La base) Toute sorte de triche est interdite. On fait son recensement une fois installé dans la catégorie dédiée.On ne lâche pas une créature dans la base d’un autre joueur. On ne s’installe pas sur les spawns de ressources, les spawns de départ, les grottes à artefacts, les failles à dinos. On ne pilonne pas des zones. On détruit ses pièges après le tâme. On ne laisse pas ses dinos en reproduction quand on déconnecté. On ne vole pas les œufs des repros sauf si le joueur est déconnecté. On ne ramasse pas les œufs fécondés level donation même si le joueur est déconnecté on signale. On doit créer une tribu même si on est tout seul.On ne tue pas les joueurs déconnectés.",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "text1": "On est poli et on se respecte ! (La base)",
+          "text2": "Toute sorte de triche est interdite.",
+          "text3": "On fait son recensement une fois installé dans la catégorie dédiée.",
+          "text4": "On ne lâche pas une créature dans la base d’un autre joueur.",
+          "text5": "On ne s’installe pas sur les spawns de ressources, les spawns de départ, les grottes à artefacts, les failles à dinos.",
+          "text6": "On ne pilonne pas des zones, on détruit ses pièges après le tâme.",
+          "text7": "On ne laisse pas ses dinos en reproduction quand on déconnecté.",
+          "text8": "On ne vole pas les œufs des repros sauf si le joueur est déconnecté.",
+          "text9": "On ne ramasse pas les œufs fécondés level donation même si le joueur est déconnecté on signale.",
+          "text10": "On doit créer une tribu même si on est tout seul.On ne tue pas les joueurs déconnectés.",
+          "imageurl": "https://i.imgur.com/6YdgcIh.png"
         } 
       }
     ],
     "links": [
       {
         "link2": {
-          "text": "Link to discord",
-          "url": "https://discord.com/invite/K7NyrTV"
+          "text": "Lien vers discord",
+          "url": "https://discord.gg/25cfMWEY58"
         }
       }
     ]
