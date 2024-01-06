@@ -28,29 +28,19 @@
                     "buttontext": "Réglement",
                     "title1": "Réglement",
                     "Text1": [
-                        "1",
                         "On est poli et on se respecte ! (La base)",
-                        "2",
                         "Toute sorte de triche est interdite.",
-                        "3",
                         "On fait son recensement une fois installé dans la catégorie dédiée.",
-                        "4",
                         "On ne lâche pas une créature dans la base d’un autre joueur.",
-                        "5",
                         "On ne s’installe pas sur les spawns de ressources, les spawns de départ, les grottes à artefacts, les failles à dinos.",
-                        "6",
                         "On ne pilonne pas des zones, on détruit ses pièges après le tâme.",
-                        "7",
                         "On ne laisse pas ses dinos en reproduction quand on déconnecté.",
-                        "8",
                         "On ne vole pas les œufs des repros sauf si le joueur est déconnecté.",
-                        "9",
                         "On ne ramasse pas les œufs fécondés level donation même si le joueur est déconnecté on signale.",
-                        "10",
                         "On doit créer une tribu même si on est tout seul.",
-                        "11",
                         "On ne tue pas les joueurs déconnectés."
-                    ]
+                    ],
+                    "imageurl": "https://i.imgur.com/a48VCix.png"
                 }
             }
         ],
