@@ -17,7 +17,7 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"1,0,0,1\">Bienvenue</>",
-                    "title1": "Bienvenue sur le serveur de La Piraterie !",
+                    "title1": "",
                     "text1": "",
                     "imageurl": "https://i.imgur.com/2md1jTB.png"
                 }
