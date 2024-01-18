@@ -35,7 +35,7 @@
                 "tab3": {
                     "layout": 1,
                     "buttontext": "<TextStyle.Red>Mods</>",
-                    "title1": ".",
+                    "title1": "",
                     "text1": "",
                     "imageurl": "https://i.imgur.com/vJdHbja.png"
                 }
