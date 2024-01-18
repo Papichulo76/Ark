@@ -36,6 +36,7 @@
                     "layout": 1,
                     "buttontext": "<TextStyle.Red>Mods</>",
                     "title1": "<TextStyle.Red>Mods</>",
+                    "text1": "",
                     "imageurl": "https://ibb.co/gTSDdnY"
                 }
             }
