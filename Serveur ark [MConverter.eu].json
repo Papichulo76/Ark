@@ -19,7 +19,7 @@
                     "buttontext": "<RichColor Color=\"1,0,0,1\">Bienvenue</>",
                     "title1": "",
                     "text1": "",
-                    "imageurl": "https://i.imgur.com/2md1jTB.png"
+                    "imageurl": "https://i.imgur.com/a48VCix.png"
                 }
             },
             {
@@ -38,6 +38,15 @@
                     "title1": "",
                     "text1": "",
                     "imageurl": "https://i.imgur.com/vJdHbja.png"
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 1,
+                    "buttontext": "<TextStyle.Red>Réglages serveur</>",
+                    "title1": "",
+                    "text1": "",
+                    "imageurl": "https://i.imgur.com/2md1jTB.png"
                 }
             }
         ],
