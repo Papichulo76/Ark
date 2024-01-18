@@ -31,6 +31,14 @@
                     "imageurl": "https://i.imgur.com/a48VCix.png"
                 }
             }
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "<TextStyle.Red>Mods</>",
+                    "title1": "<TextStyle.Red>Mods</>",
+                    "imageurl": "https://ibb.co/gTSDdnY"
+                }
+            }
         ],
         "links": [
             {
